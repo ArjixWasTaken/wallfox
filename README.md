@@ -9,7 +9,7 @@ This extension is still in development and may not work as expected. Use at your
 ## FAQ
 
 -   **Q:** Why specifically Firefox?
--   **A:** I am a Firefox user and I wanted to create an extension for it. I may consider officially supporting Chrome extension in the future.
+-   **A:** I am a Firefox user and I wanted to create an extension for it. I may consider officially supporting Chrome in the future.
 
 ## Contributing
 
